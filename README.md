@@ -11,7 +11,7 @@
 I'm a full-stack developer passionate about building high-performance web applications, scalable backends, AI, LLM, and sleek user interfaces.
 
 * 🔭 **Currently working on:** Nuxt Trivia Game
-* 🌱 **Currently learning:** Nuxt Js & Responsive user interface
+* 🌱 **Currently learning:** Fast API, Vue/Nuxt Js & Responsive User Interface
 * 💬 **Ask me about:** Python, PHP, JavaScript, Go, Vue/Nuxt, and API development
 * ⚡ **Fun fact:** I Love Watching Youtube Videos and Learning New Technologies
 
