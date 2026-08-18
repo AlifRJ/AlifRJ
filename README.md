@@ -50,7 +50,7 @@ I'm a full-stack developer passionate about building high-performance web applic
 
 | Project | Description | Stack |
 | :--- | :--- | :--- |
-| 🎮 **[Trivia Game](https://github.com/AlifRJ/Nuxt-Trivia-Game)** | Real-time quiz application built with session management and dynamic API handling. | `Nuxt` `Vue` `Tailwind` |
+| 🎮 **[Trivia Game]([https://nuxt-trivia-game.vercel.app/)** | Real-time quiz application built with session management and dynamic API handling. | `Nuxt` `Vue` `Tailwind` |
 | 📱 **[Coffee Shop Landing Page](https://coffee-shop-ten-neon.vercel.app/)** | Responsive coffee shop landing page with vanilla CSS | `HTML` `CSS` `Alpine.Js` |
 | 🌐 **[Blog with Vue Js](https://github.com/AlifRJ/inertia-vue-blog)** | Web blog featuring authentication and state management. | `Vue` `Laravel` `Inertia` `Tailwind` |
 
