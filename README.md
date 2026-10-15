@@ -11,8 +11,7 @@
 I'm a full-stack developer passionate about building high-performance web applications, scalable backends, AI, LLM, and sleek user interfaces.
 
 * 🔭 **Currently working on:** Nuxt Trivia Game
-* 🌱 **Currently learning:** Fast API, Vue/Nuxt Js & Responsive User Interface
-* 💬 **Ask me about:** Python, PHP, JavaScript, Go, Vue/Nuxt, and API development
+* 🌱 **Currently learning:** Low Level Programming, Vue/Nuxt Js & LLM/Transformer
 * ⚡ **Fun fact:** I Love Watching Youtube Videos and Learning New Technologies
 
 ---
@@ -20,26 +19,28 @@ I'm a full-stack developer passionate about building high-performance web applic
 ### 🛠️ Tech Stack & Tools
 
 #### **Languages**
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white)
 
 #### **Frameworks**
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
 ![Nuxt.js](https://img.shields.io/badge/Nuxt-00DC82?style=for-the-badge&logo=nuxtdotjs&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Gin](https://img.shields.io/badge/Gin-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 
 #### **Databases**
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
 #### **Tools & Infrastructure**
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![VPS](https://img.shields.io/badge/VPS-2088FF?style=for-the-badge&logo=serverless&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
@@ -50,7 +51,7 @@ I'm a full-stack developer passionate about building high-performance web applic
 
 | Project | Description | Stack |
 | :--- | :--- | :--- |
-| 🎮 **[Trivia Game](https://nuxt-trivia-game.vercel.app/)** | Real-time quiz application built with session management and dynamic API handling. | `Nuxt` `Vue` `Tailwind` |
+| 🎮 **[Trivia Game](https://nuxt-trivia-game.vercel.app/)** | Real-time quiz application built with session management and dynamic API handling. | `Nuxt` `Vue` `Tailwind` `Go` `JWT` |
 | 📱 **[Coffee Shop Landing Page](https://coffee-shop-ten-neon.vercel.app/)** | Responsive coffee shop landing page with vanilla CSS | `HTML` `CSS` `Alpine.Js` |
 | 🌐 **[Blog with Vue Js](https://github.com/AlifRJ/inertia-vue-blog)** | Web blog featuring authentication and state management. | `Vue` `Laravel` `Inertia` `Tailwind` |
 
