@@ -1,7 +1,7 @@
 # Hi there, I'm Alif 👋
 
 <p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=10B981&center=false&vCenter=true&width=435&lines=Full-Stack+Developer;Vue+%26+Nuxt+Enthusiast;Backend+Engine+Builder" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=10B981&center=false&vCenter=true&width=435&lines=Full-Stack+Developer;GO+%26+Nuxt+Enthusiast;Backend+Engine+Builder" alt="Typing SVG" />
 </p>
 
 ---
